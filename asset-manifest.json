@@ -1,14 +1,27 @@
 {
   "files": {
-    "main.js": "./static/js/main.4e6a7149.js",
+    "main.css": "./static/css/main.dc273665.css",
+    "main.js": "./static/js/main.f9e5fb47.js",
     "static/js/787.d4aba7ab.chunk.js": "./static/js/787.d4aba7ab.chunk.js",
+    "static/media/poseidom.png": "./static/media/poseidom.573acae2d54b1d084dee.png",
+    "static/media/flutter_dart.png": "./static/media/flutter_dart.9f8071f7746201bb7079.png",
+    "static/media/spring-kafka.png": "./static/media/spring-kafka.3c1c3f8d113615ee31e5.png",
+    "static/media/spring-mongo.png": "./static/media/spring-mongo.0b682c108b71ef49e7a3.png",
     "static/media/eu-eu-fundo.png": "./static/media/eu-eu-fundo.0a38b95a8d50e7a20f47.png",
     "static/media/fundo.png": "./static/media/fundo.0f1e7833978c4f14cd4f.png",
+    "static/media/spring-boot-aws.png": "./static/media/spring-boot-aws.518f3e920137eef024f9.png",
+    "static/media/golang.png": "./static/media/golang.18e023a48bd158d61694.png",
+    "static/media/go.png": "./static/media/go.0726c45c5ef74bb326cb.png",
+    "static/media/dotnetcore.png": "./static/media/dotnetcore.5b9dbfc8d9b925883d0e.png",
+    "static/media/dotnet.png": "./static/media/dotnet.7a3d93887fc1bb3a4e9b.png",
+    "static/media/flutter_firebase.png": "./static/media/flutter_firebase.b2353494310b85fa7f72.png",
     "index.html": "./index.html",
-    "main.4e6a7149.js.map": "./static/js/main.4e6a7149.js.map",
+    "main.dc273665.css.map": "./static/css/main.dc273665.css.map",
+    "main.f9e5fb47.js.map": "./static/js/main.f9e5fb47.js.map",
     "787.d4aba7ab.chunk.js.map": "./static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4e6a7149.js"
+    "static/css/main.dc273665.css",
+    "static/js/main.f9e5fb47.js"
   ]
 }
