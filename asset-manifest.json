@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.dc273665.css",
-    "main.js": "./static/js/main.f9e5fb47.js",
+    "main.js": "./static/js/main.10c1af98.js",
     "static/js/787.d4aba7ab.chunk.js": "./static/js/787.d4aba7ab.chunk.js",
     "static/media/poseidom.png": "./static/media/poseidom.573acae2d54b1d084dee.png",
     "static/media/flutter_dart.png": "./static/media/flutter_dart.9f8071f7746201bb7079.png",
@@ -17,11 +17,11 @@
     "static/media/flutter_firebase.png": "./static/media/flutter_firebase.b2353494310b85fa7f72.png",
     "index.html": "./index.html",
     "main.dc273665.css.map": "./static/css/main.dc273665.css.map",
-    "main.f9e5fb47.js.map": "./static/js/main.f9e5fb47.js.map",
+    "main.10c1af98.js.map": "./static/js/main.10c1af98.js.map",
     "787.d4aba7ab.chunk.js.map": "./static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc273665.css",
-    "static/js/main.f9e5fb47.js"
+    "static/js/main.10c1af98.js"
   ]
 }
